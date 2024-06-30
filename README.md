@@ -31,4 +31,4 @@ To get Custom Response, just head to `prompt` variable, and change things accord
 ## Support
 Join our Discord Servers, to get support:
 
-![Discord Banner 2](https://discord.com/api/guilds/1254800755894779954/widget.png?style=banner2)
+[![Discord Banner 2](https://discord.com/api/guilds/1254800755894779954/widget.png?style=banner2)](https://discord.com/invite/TDWkb2aGHr)
